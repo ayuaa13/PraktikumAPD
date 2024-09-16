@@ -1,4 +1,4 @@
-## Praktikum_APD
+# Praktikum_APD
 
-### Biodata
-# Nama : Ayu Azzhahrah Alwi
+## Biodata Diri
+### Nama : Ayu Azzhahrah Alwi
